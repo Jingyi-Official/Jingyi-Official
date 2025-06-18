@@ -1,4 +1,8 @@
 ## Hi there 👋
+- 👋 Hi, I'm Jingyi. 
+- 🌱 I’m currently working on 3D reconstruction and generative modelling.
+- 📫 Reach me here: [Gmail](mailto:jingyiwan.work@gmail.com)
+
 
 <!--
 **Jingyi-Official/Jingyi-Official** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
