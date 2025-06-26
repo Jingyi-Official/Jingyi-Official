@@ -1,8 +1,9 @@
 ## Hi there 👋
 - 👋 Hi, I'm Jingyi. 
 - 🌱 I’m currently working on 3D reconstruction and generative modelling.
-- ⚡ I have hands-on experience with: NeRF, 3DGS, SLAM, diffusion models, vision-language models, multimodal learning...
-- 📫 Reach me here: [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:jingyiwan.work@gmail.com) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yourname](https://www.linkedin.com/in/jingyi-wan-845027356/)) [![Portfolio](https://img.shields.io/badge/-Portfolio-121212?logo=githubpages&logoColor=white)](https://yourportfolio.com)
+- 🔭 I have hands-on experience with: NeRF, 3DGS, SLAM, diffusion models, vision-language models, multimodal learning...
+- 📫 Reach me here: [Email](mailto:jingyiwan.work@gmail.com) | [LinkedIn](https://www.linkedin.com/in/jingyi-wan-845027356/) | [X]([https://www.linkedin.com/in/jingyi-wan-845027356/](https://x.com/Jingyi_work))
+- 😄 ML/DL tools I use: ![Lightning](https://img.shields.io/badge/-Lightning-792ee5?logo=pytorchlightning&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 <!--
 **Jingyi-Official/Jingyi-Official** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
