@@ -3,8 +3,7 @@
 - 🌱 I’m currently working on 3D reconstruction and generative modelling.
 - 🔭 I have hands-on experience with: NeRF, 3DGS, SLAM, diffusion models, vision-language models, multimodal learning...
 - 📫 Reach me here: [Email](mailto:jingyiwan.work@gmail.com) | [LinkedIn](https://www.linkedin.com/in/jingyi-wan-845027356/) | [X](https://x.com/Jingyi_work)
-- 😄 ML/DL tools I use: ![Lightning](https://img.shields.io/badge/-Lightning-792EE5?style=for-the-badge&logo=pytorch-lightning&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
+- 😄 ML/DL tools I use: ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Lightning](https://img.shields.io/badge/Lightning-792EE5?style=flat-square&logo=pytorch-lightning&logoColor=white)
 <!--
 **Jingyi-Official/Jingyi-Official** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
