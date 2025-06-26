@@ -1,6 +1,7 @@
 ## Hi there 👋
 - 👋 Hi, I'm Jingyi. 
 - 🌱 I’m currently working on 3D reconstruction and generative modelling.
+- ⚡ I have hands-on experience with: NeRF, 3DGS, SLAM, diffusion models, vision-language models, multimodal learning...
 - 📫 Reach me here: [Gmail](mailto:jingyiwan.work@gmail.com)
 
 
