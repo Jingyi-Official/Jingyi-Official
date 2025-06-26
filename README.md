@@ -2,8 +2,7 @@
 - 👋 Hi, I'm Jingyi. 
 - 🌱 I’m currently working on 3D reconstruction and generative modelling.
 - ⚡ I have hands-on experience with: NeRF, 3DGS, SLAM, diffusion models, vision-language models, multimodal learning...
-- 📫 Reach me here: [Gmail](mailto:jingyiwan.work@gmail.com)
-
+- 📫 Reach me here: [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:jingyiwan.work@gmail.com) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yourname](https://www.linkedin.com/in/jingyi-wan-845027356/)) [![Portfolio](https://img.shields.io/badge/-Portfolio-121212?logo=githubpages&logoColor=white)](https://yourportfolio.com)
 
 <!--
 **Jingyi-Official/Jingyi-Official** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
